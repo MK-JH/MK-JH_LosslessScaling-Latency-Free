@@ -13,7 +13,9 @@ LosslessScaling
 میباشد که قابلیتهای 
 
 Antilage 2
+
 LatencyFlex
+
 Nvidia Reflex
 
 بهش اضافه شده و هنگام استفاده تاخییر ورودیتون رو به حداقل ممکن میرسونه
@@ -21,7 +23,9 @@ Nvidia Reflex
 همچنین میتونید از داخل منوی این ماد آپسکلرهای مختلفی مثل 
 
 FSR 3.1.2
+
 Dlss 3.7
+
 Xess2
 
 و...................
@@ -33,7 +37,9 @@ Xess2
 https://t.me/MKJH_APPS
 
 https://t.me/mkjh_Archive
+
 ارتباط با من:
+
 
 https://t.me/PersianPatchDeveloper
 
